@@ -1,0 +1,9 @@
+***This is a fake document that i am using for a class demonstration***
+***10/26/2016 - ISM Project Management***
+
+
+Please enter your code here for the production dashboard 
+WE need to create this project because management wants to pull reports on the fly and 
+bypass the need for their analysts
+
+This dashboard wont eliminate any jobs it will only make us more efficient.
